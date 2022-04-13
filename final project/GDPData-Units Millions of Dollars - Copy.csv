@@ -1,0 +1,199 @@
+city,year,GDP
+Albuquerque(New Mexico),2010,37070.453
+Albuquerque(New Mexico),2011,37026.897
+Albuquerque(New Mexico),2012,37344.986
+Albuquerque(New Mexico),2013,37178.685
+Albuquerque(New Mexico),2014,38505.467
+Albuquerque(New Mexico),2015,39669.27
+Albuquerque(New Mexico),2016,40800.578
+Albuquerque(New Mexico),2017,41311.756
+Albuquerque(New Mexico),2018,43087.65
+Albuquerque(New Mexico),2019,45332.26
+Albuquerque(New Mexico),2020,45055.535
+Baton Rouge(Louisiana),2010,43244.155
+Baton Rouge(Louisiana),2011,50493.014
+Baton Rouge(Louisiana),2012,52351.595
+Baton Rouge(Louisiana),2013,52394.891
+Baton Rouge(Louisiana),2014,58565.574
+Baton Rouge(Louisiana),2015,58296.202
+Baton Rouge(Louisiana),2016,53709.022
+Baton Rouge(Louisiana),2017,53032.349
+Baton Rouge(Louisiana),2018,57916.449
+Baton Rouge(Louisiana),2019,56021.453
+Baton Rouge(Louisiana),2020,52787.892
+Bismarck(North Dakota),2010,5143.733
+Bismarck(North Dakota),2011,5577.684
+Bismarck(North Dakota),2012,6468.246
+Bismarck(North Dakota),2013,6705.586
+Bismarck(North Dakota),2014,7402.681
+Bismarck(North Dakota),2015,7775.643
+Bismarck(North Dakota),2016,7423.536
+Bismarck(North Dakota),2017,7509.554
+Bismarck(North Dakota),2018,7581.651
+Bismarck(North Dakota),2019,7666.497
+Bismarck(North Dakota),2020,7509.735
+Charlotte(n.c),2010,112359.74
+Charlotte(n.c),2011,119986.73
+Charlotte(n.c),2012,130053.823
+Charlotte(n.c),2013,132613.851
+Charlotte(n.c),2014,140082.542
+Charlotte(n.c),2015,149619.312
+Charlotte(n.c),2016,157078.376
+Charlotte(n.c),2017,168758.726
+Charlotte(n.c),2018,175993.277
+Charlotte(n.c),2019,184482.639
+Charlotte(n.c),2020,184818.577
+chicago(Illinois),2010,523098.041
+chicago(Illinois),2011,542384.78
+chicago(Illinois),2012,570954.874
+chicago(Illinois),2013,583070.72
+chicago(Illinois),2014,609478.18
+chicago(Illinois),2015,636938.865
+chicago(Illinois),2016,647455.652
+chicago(Illinois),2017,667153.495
+chicago(Illinois),2018,701954.968
+chicago(Illinois),2019,721906.95
+chicago(Illinois),2020,692988.237
+Columbus(Ohio),2010,91044.036
+Columbus(Ohio),2011,95872.717
+Columbus(Ohio),2012,101853.495
+Columbus(Ohio),2013,106767.899
+Columbus(Ohio),2014,112174.074
+Columbus(Ohio),2015,116754.359
+Columbus(Ohio),2016,121360.811
+Columbus(Ohio),2017,126295.171
+Columbus(Ohio),2018,131461.913
+Columbus(Ohio),2019,137648.916
+Columbus(Ohio),2020,137259.944
+Denver(Colorado),2010,142517.164
+Denver(Colorado),2011,147392.855
+Denver(Colorado),2012,154899.048
+Denver(Colorado),2013,164035.645
+Denver(Colorado),2014,173826.485
+Denver(Colorado),2015,184611.894
+Denver(Colorado),2016,190857.987
+Denver(Colorado),2017,199940.107
+Denver(Colorado),2018,213146.127
+Denver(Colorado),2019,227259.597
+Denver(Colorado),2020,223145.76
+Montana(state),2010,38336.1
+Montana(state),2011,40995.1
+Montana(state),2012,42340.9
+Montana(state),2013,43687.9
+Montana(state),2014,45177.2
+Montana(state),2015,46604.1
+Montana(state),2016,45490.9
+Montana(state),2017,48439.5
+Montana(state),2018,50903.8
+Montana(state),2019,51789.3
+Montana(state),2020,51508.8
+Houston(Texas),2010,353397.184
+Houston(Texas),2011,382941.351
+Houston(Texas),2012,406972.648
+Houston(Texas),2013,429918.372
+Houston(Texas),2014,441959.625
+Houston(Texas),2015,461490.275
+Houston(Texas),2016,453323.711
+Houston(Texas),2017,473076.363
+Houston(Texas),2018,505889.766
+Houston(Texas),2019,509311.54
+Houston(Texas),2020,488164.627
+Jacksonville(florida),2010,58669.966
+Jacksonville(florida),2011,58994.346
+Jacksonville(florida),2012,60830.433
+Jacksonville(florida),2013,63804.05
+Jacksonville(florida),2014,66681.774
+Jacksonville(florida),2015,71009.831
+Jacksonville(florida),2016,74788.031
+Jacksonville(florida),2017,78977.582
+Jacksonville(florida),2018,83688.402
+Jacksonville(florida),2019,89388.127
+Jacksonville(florida),2020,91023.328
+Las Vegas(Nevada),2010,86533.192
+Las Vegas(Nevada),2011,88771.829
+Las Vegas(Nevada),2012,89890.207
+Las Vegas(Nevada),2013,93111.625
+Las Vegas(Nevada),2014,96952.928
+Las Vegas(Nevada),2015,104164.814
+Las Vegas(Nevada),2016,108924.516
+Las Vegas(Nevada),2017,113668.85
+Las Vegas(Nevada),2018,122797.372
+Las Vegas(Nevada),2019,131294.377
+Las Vegas(Nevada),2020,119386.931
+Los Angeles,2010,721432.807
+Los Angeles,2011,742349.632
+Los Angeles,2012,770616.431
+Los Angeles,2013,799688.139
+Los Angeles,2014,833317.955
+Los Angeles,2015,882307.124
+Los Angeles,2016,910277.065
+Los Angeles,2017,957632.371
+Los Angeles,2018,1006224.798
+Los Angeles,2019,1055570.39
+Los Angeles,2020,1007037.066
+philadelphia,2010,343539.465
+philadelphia,2011,351690.659
+philadelphia,2012,367778.658
+philadelphia,2013,377541.289
+philadelphia,2014,394728.109
+philadelphia,2015,407824.145
+philadelphia,2016,414883.706
+philadelphia,2017,418695.981
+philadelphia,2018,435423.852
+philadelphia,2019,450742.192
+philadelphia,2020,439055.118
+Phoenix(Arizona),2010,178397.036
+Phoenix(Arizona),2011,185788.925
+Phoenix(Arizona),2012,195823.019
+Phoenix(Arizona),2013,201280.704
+Phoenix(Arizona),2014,209291.466
+Phoenix(Arizona),2015,219956.597
+Phoenix(Arizona),2016,230743.32
+Phoenix(Arizona),2017,243103.394
+Phoenix(Arizona),2018,259286.475
+Phoenix(Arizona),2019,276914.305
+Phoenix(Arizona),2020,281004.837
+new york,2010,1288303.129
+new york,2011,1312974.304
+new york,2012,1400779.267
+new york,2013,1445252.232
+new york,2014,1507782.786
+new york,2015,1570332.745
+new york,2016,1638128.941
+new york,2017,1690244.554
+new york,2018,1790858.079
+new york,2019,1872165.505
+new york,2020,1809323.397
+San Francisco,2010,316779.481
+San Francisco,2011,329715.792
+San Francisco,2012,363995.871
+San Francisco,2013,382609.214
+San Francisco,2014,412207.012
+San Francisco,2015,443406.281
+San Francisco,2016,472395.545
+San Francisco,2017,519358.95
+San Francisco,2018,562046.311
+San Francisco,2019,595294.62
+San Francisco,2020,588335.543
+Seattle(Washington),2010,240147.409
+Seattle(Washington),2011,251468.132
+Seattle(Washington),2012,269458.587
+Seattle(Washington),2013,285068.194
+Seattle(Washington),2014,302314.756
+Seattle(Washington),2015,320665.748
+Seattle(Washington),2016,336256.816
+Seattle(Washington),2017,360610.815
+Seattle(Washington),2018,393634.702
+Seattle(Washington),2019,419475.451
+Seattle(Washington),2020,426939.963
+Topeka(Kansas),2010,9582.009
+Topeka(Kansas),2011,9950.025
+Topeka(Kansas),2012,10062.807
+Topeka(Kansas),2013,9805.047
+Topeka(Kansas),2014,10032.585
+Topeka(Kansas),2015,10122.478
+Topeka(Kansas),2016,10327.657
+Topeka(Kansas),2017,10395.88
+Topeka(Kansas),2018,10797.727
+Topeka(Kansas),2019,10575.421
+Topeka(Kansas),2020,10566.441

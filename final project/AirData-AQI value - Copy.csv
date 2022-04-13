@@ -1,0 +1,199 @@
+city,year,AQI value
+Albuquerque(New Mexico),2010,62.10410959
+Albuquerque(New Mexico),2011,68.62739726
+Albuquerque(New Mexico),2012,66.46174863
+Albuquerque(New Mexico),2013,58.00821918
+Albuquerque(New Mexico),2014,53.14520548
+Albuquerque(New Mexico),2015,52.34246575
+Albuquerque(New Mexico),2016,54.05191257
+Albuquerque(New Mexico),2017,56.43013699
+Albuquerque(New Mexico),2018,60.8
+Albuquerque(New Mexico),2019,56.12328767
+Albuquerque(New Mexico),2020,58.16393443
+Baton Rouge(Louisiana),2010,64.60547945
+Baton Rouge(Louisiana),2011,63.93972603
+Baton Rouge(Louisiana),2012,59.08743169
+Baton Rouge(Louisiana),2013,51.36164384
+Baton Rouge(Louisiana),2014,55.22739726
+Baton Rouge(Louisiana),2015,56.24383562
+Baton Rouge(Louisiana),2016,53.2431694
+Baton Rouge(Louisiana),2017,49.15068493
+Baton Rouge(Louisiana),2018,51.1369863
+Baton Rouge(Louisiana),2019,49.78082192
+Baton Rouge(Louisiana),2020,46.69398907
+Bismarck(North Dakota),2010,42.09041096
+Bismarck(North Dakota),2011,38.51232877
+Bismarck(North Dakota),2012,39.72131148
+Bismarck(North Dakota),2013,40.01917808
+Bismarck(North Dakota),2014,38.32876712
+Bismarck(North Dakota),2015,41.01643836
+Bismarck(North Dakota),2016,34.78415301
+Bismarck(North Dakota),2017,41.02191781
+Bismarck(North Dakota),2018,42.60273973
+Bismarck(North Dakota),2019,38.41643836
+Bismarck(North Dakota),2020,38.16939891
+Charlotte(n.c),2010,63.01917808
+Charlotte(n.c),2011,62.06849315
+Charlotte(n.c),2012,56.72404372
+Charlotte(n.c),2013,46.92328767
+Charlotte(n.c),2014,50.21917808
+Charlotte(n.c),2015,51.69589041
+Charlotte(n.c),2016,50.64480874
+Charlotte(n.c),2017,49.84109589
+Charlotte(n.c),2018,48.52328767
+Charlotte(n.c),2019,54.35342466
+Charlotte(n.c),2020,43.34246575
+chicago(Illinois),2010,72.41369863
+chicago(Illinois),2011,66.32328767
+chicago(Illinois),2012,71.73497268
+chicago(Illinois),2013,61.9369863
+chicago(Illinois),2014,64.66027397
+chicago(Illinois),2015,60.69863014
+chicago(Illinois),2016,59.66666667
+chicago(Illinois),2017,58.84383562
+chicago(Illinois),2018,62.4630137
+chicago(Illinois),2019,58.10136986
+chicago(Illinois),2020,60.10655738
+Columbus(Ohio),2010,55.28219178
+Columbus(Ohio),2011,53.9890411
+Columbus(Ohio),2012,56.15846995
+Columbus(Ohio),2013,47.73424658
+Columbus(Ohio),2014,49.31506849
+Columbus(Ohio),2015,46.56986301
+Columbus(Ohio),2016,44.96448087
+Columbus(Ohio),2017,43.05753425
+Columbus(Ohio),2018,45.77260274
+Columbus(Ohio),2019,48.0109589
+Columbus(Ohio),2020,42.69945355
+Denver(Colorado),2010,67.60273973
+Denver(Colorado),2011,70.5260274
+Denver(Colorado),2012,71.93442623
+Denver(Colorado),2013,69.9260274
+Denver(Colorado),2014,67.67123288
+Denver(Colorado),2015,67.1369863
+Denver(Colorado),2016,66.90163934
+Denver(Colorado),2017,68.7260274
+Denver(Colorado),2018,71.97534247
+Denver(Colorado),2019,64.80547945
+Denver(Colorado),2020,65.49180328
+Helena(Montana),2010,34.32328767
+Helena(Montana),2011,43.16438356
+Helena(Montana),2012,45.27868852
+Helena(Montana),2013,39.32054795
+Helena(Montana),2014,44.06575342
+Helena(Montana),2015,47.12328767
+Helena(Montana),2016,42.25409836
+Helena(Montana),2017,56.06575342
+Helena(Montana),2018,45.56986301
+Helena(Montana),2019,44.10410959
+Helena(Montana),2020,43.42936288
+Houston(Texas),2010,65.85205479
+Houston(Texas),2011,69
+Houston(Texas),2012,65.68579235
+Houston(Texas),2013,59.31506849
+Houston(Texas),2014,58.10136986
+Houston(Texas),2015,63.98630137
+Houston(Texas),2016,58.35245902
+Houston(Texas),2017,57.8109589
+Houston(Texas),2018,58.86575342
+Houston(Texas),2019,60.15890411
+Houston(Texas),2020,57.70765027
+Jacksonville(florida),2010,48.13424658
+Jacksonville(florida),2011,47.42191781
+Jacksonville(florida),2012,40.75136612
+Jacksonville(florida),2013,41.1369863
+Jacksonville(florida),2014,46.40547945
+Jacksonville(florida),2015,41.56164384
+Jacksonville(florida),2016,44.99180328
+Jacksonville(florida),2017,44.01643836
+Jacksonville(florida),2018,45.43561644
+Jacksonville(florida),2019,45.86027397
+Jacksonville(florida),2020,44.56010929
+Las Vegas(Nevada),2010,62.80273973
+Las Vegas(Nevada),2011,66.0739726
+Las Vegas(Nevada),2012,71.29508197
+Las Vegas(Nevada),2013,67.04657534
+Las Vegas(Nevada),2014,63.02465753
+Las Vegas(Nevada),2015,62.90684932
+Las Vegas(Nevada),2016,63.49453552
+Las Vegas(Nevada),2017,63.88219178
+Las Vegas(Nevada),2018,67.88767123
+Las Vegas(Nevada),2019,59.01917808
+Las Vegas(Nevada),2020,65.23770492
+Los Angeles,2010,87.01369863
+Los Angeles,2011,92.64931507
+Los Angeles,2012,92.13387978
+Los Angeles,2013,87.89589041
+Los Angeles,2014,89.95890411
+Los Angeles,2015,91.67123288
+Los Angeles,2016,86.7568306
+Los Angeles,2017,92.15616438
+Los Angeles,2018,85.95890411
+Los Angeles,2019,82.62739726
+Los Angeles,2020,97.85245902
+philadelphia,2010,68.76986301
+philadelphia,2011,67.10684932
+philadelphia,2012,67.46448087
+philadelphia,2013,61.46575342
+philadelphia,2014,63.40821918
+philadelphia,2015,63.57534247
+philadelphia,2016,61.41530055
+philadelphia,2017,59.15890411
+philadelphia,2018,59.39452055
+philadelphia,2019,55.62739726
+philadelphia,2020,51.53005464
+Phoenix(Arizona),2010,82.35068493
+Phoenix(Arizona),2011,121.5972603
+Phoenix(Arizona),2012,93.72677596
+Phoenix(Arizona),2013,91.04657534
+Phoenix(Arizona),2014,111.2438356
+Phoenix(Arizona),2015,92.78356164
+Phoenix(Arizona),2016,83.32240437
+Phoenix(Arizona),2017,87.2739726
+Phoenix(Arizona),2018,92.63287671
+Phoenix(Arizona),2019,89.8739726
+Phoenix(Arizona),2020,138.0491803
+new york,2010,69.31506849
+new york,2011,67.64931507
+new york,2012,64.06830601
+new york,2013,59.74520548
+new york,2014,59.50136986
+new york,2015,63.03835616
+new york,2016,59.81420765
+new york,2017,57.86849315
+new york,2018,58.93424658
+new york,2019,56.84931507
+new york,2020,52.6557377
+San Francisco,2010,53.03013699
+San Francisco,2011,54.98356164
+San Francisco,2012,50.72677596
+San Francisco,2013,55.34794521
+San Francisco,2014,52.24109589
+San Francisco,2015,53.57260274
+San Francisco,2016,52.16120219
+San Francisco,2017,56.4109589
+San Francisco,2018,59
+San Francisco,2019,47.82191781
+San Francisco,2020,54.41803279
+Seattle(Washington),2010,45.14794521
+Seattle(Washington),2011,50.05479452
+Seattle(Washington),2012,49.69945355
+Seattle(Washington),2013,54.05205479
+Seattle(Washington),2014,51.35068493
+Seattle(Washington),2015,54.48219178
+Seattle(Washington),2016,46.06010929
+Seattle(Washington),2017,56.76438356
+Seattle(Washington),2018,52.9260274
+Seattle(Washington),2019,48.72328767
+Seattle(Washington),2020,50.3579235
+Topeka(Kansas),2010,42.12328767
+Topeka(Kansas),2011,46.07945205
+Topeka(Kansas),2012,48.45081967
+Topeka(Kansas),2013,39.73972603
+Topeka(Kansas),2014,39.16438356
+Topeka(Kansas),2015,37.69863014
+Topeka(Kansas),2016,37.6010929
+Topeka(Kansas),2017,40.7369863
+Topeka(Kansas),2018,43.39726027
+Topeka(Kansas),2019,42.2109589
+Topeka(Kansas),2020,41.78947368
